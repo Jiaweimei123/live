@@ -49128,6 +49128,9 @@
 	<programme channel="黑莓动画" start="20241123040000 +0800" stop="20241123044500 +0800">
 		<title lang="zh">马达加斯加企鹅第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241123044500 +0800" stop="20241123053400 +0800">
+		<title lang="zh">葬送的芙莉莲</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -49136,6 +49139,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20241123025100 +0800" stop="20241123043600 +0800">
 		<title lang="zh">相棒：X-DAY</title>
+	</programme>
+	<programme channel="黑莓电影" start="20241123043600 +0800" stop="20241123060700 +0800">
+		<title lang="zh">米娅的夏天</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -49479,6 +49485,9 @@
 	<programme channel="newtv超级电影" start="20241123030600 +0800" stop="20241123044900 +0800">
 		<title lang="zh">少年巴比伦</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20241123044900 +0800" stop="20241123070900 +0800">
+		<title lang="zh">信义兄弟</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -49598,6 +49607,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20241123035900 +0800" stop="20241123044400 +0800">
 		<title lang="zh">07_守婚如玉</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20241123044400 +0800" stop="20241123053900 +0800">
+		<title lang="zh">08_守婚如玉</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -49769,6 +49781,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20241123034600 +0800" stop="20241123044100 +0800">
 		<title lang="zh">09_李三枪</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20241123044100 +0800" stop="20241123053700 +0800">
+		<title lang="zh">10_李三枪</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
